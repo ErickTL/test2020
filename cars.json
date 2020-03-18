@@ -1,0 +1,68 @@
+[
+        {
+            "id": 1,
+            "model": {
+                "id": "HNCV",
+                "name": "Civic",
+                "make": {
+                    "id": "HN",
+                    "name": "Honda",
+                    "logo": "https://i.ibb.co/yqTHG2T/honda.png"
+                },
+                "type": {
+                    "id": "SD",
+                    "name": "Sedan",
+                    "icon": "https://i.ibb.co/bmcsTPM/sedan.png"
+                }
+            },
+            "year": 2017,
+            "description": "LX Coupe",
+            "color": "Black",
+            "price": 16569,
+            "image": "https://i.ibb.co/rf2RxFk/1.jpg"
+        },
+        {
+            "id": 2,
+            "model": {
+                "id": "F150",
+                "name": "F150",
+                "make": {
+                    "id": "FR",
+                    "name": "Ford",
+                    "logo": "https://i.ibb.co/7Szq3nb/ford.jpg"
+                },
+                "type": {
+                    "id": "PKU",
+                    "name": "Pick Up",
+                    "icon": "https://i.ibb.co/Dw9GXxr/pickup.png"
+                }
+            },
+            "year": 2019,
+            "description": "4x4 Crew Cab Raptor",
+            "color": "White",
+            "price": 64999,
+            "image": "https://i.ibb.co/Qv4bHQ5/2.jpg"
+        },
+        {
+            "id": 3,
+            "model": {
+                "id": "GCH",
+                "name": "Grand Cherokee",
+                "make": {
+                    "id": "JP",
+                    "name": "Jeep",
+                    "logo": "https://i.ibb.co/Wzjy3Bd/jeep.jpg"
+                },
+                "type": {
+                    "id": "SUV",
+                    "name": "SUV",
+                    "icon": "https://i.ibb.co/pXV5btq/suv.png"
+                }
+            },
+            "year": 2017,
+            "description": "4WD SRT",
+            "color": "Black",
+            "price": 43990,
+            "image": "https://i.ibb.co/J3Rqg7s/3.jpg"
+        }
+    ]
